@@ -9,12 +9,12 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
+ * @file stats.c 
  * @brief <Add Brief Description Here >
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
+ * @author Van Dinh Tran
  * @date <Add date >
  *
  */
@@ -41,3 +41,4 @@ void main() {
 }
 
 /* Add other Implementation File Code Here */
+
